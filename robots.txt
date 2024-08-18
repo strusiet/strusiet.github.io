@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://strusiet.github.io/sitemap.html.gz
+Sitemap: https://strusiet.github.io/app/sitemap.html.gz
+Sitemap: https://strusiet.github.io/assets/sitemap.html.gz
+Sitemap: https://strusiet.github.io/css/sitemap.html.gz
+Sitemap: https://strusiet.github.io/includes/sitemap.html.gz
+Sitemap: https://strusiet.github.io/item/sitemap.html.gz
+Sitemap: https://strusiet.github.io/src/sitemap.html.gz
